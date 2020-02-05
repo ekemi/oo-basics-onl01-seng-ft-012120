@@ -1,4 +1,5 @@
 # Make your shoe class here!
+<<<<<<< HEAD
 class Shoe
   
   def initialize(adidas)
@@ -58,3 +59,9 @@ end
 
 p=Shoe.new("Adidas")
 #Shoe.new("Nike")
+=======
+class Adidas
+  def initialize
+end
+  Adidas.new()
+>>>>>>> 138dccbffd76f58af1b7adb8636cfdbf467a982e
